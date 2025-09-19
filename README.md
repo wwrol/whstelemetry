@@ -1,5 +1,5 @@
 # whstelemetry
-REPO for Watertown High School Motorsports Telemetry
+Watertown High School Motorsports Telemetry
 
 
 # dirs
